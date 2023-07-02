@@ -5,3 +5,17 @@ Attached files are the Tableau workbook breaking down the customer segmentation 
 
 The workbook breaks down the bank customers by age, gender, region and job classification to help answer stakeholder questions about which target
 group for marketing for each region in the UK.
+
+# Takeaways
+
+Englamd represented by 70% white collar workers
+
+Scotland has majority of blue collar male workers in their late 40's to mid 50's
+
+Wales has above average of mid-sized balances
+
+Northen Ireland have younger age group mostly by female customers
+
+# Conclusion
+
+For marketing in England, target white collar workers
