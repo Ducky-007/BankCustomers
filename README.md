@@ -24,4 +24,4 @@ For marketing in Scotland, target blue collar males in their late 40's to mid 50
 
 For marketing in Wales, target white collar workers in their 30's
 
-
+For marketing in Northern Ireland, target females in their mid 20's to mid 30's
