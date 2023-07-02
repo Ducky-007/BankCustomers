@@ -19,3 +19,7 @@ Northen Ireland have younger age group mostly by female customers
 # Conclusion
 
 For marketing in England, target white collar workers
+
+For marketing in Scotland, target blue collar males in their late 40's to mid 50's
+
+
