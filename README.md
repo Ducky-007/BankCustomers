@@ -22,4 +22,6 @@ For marketing in England, target white collar workers
 
 For marketing in Scotland, target blue collar males in their late 40's to mid 50's
 
+For marketing in Wales, target white collar workers in their 30's
+
 
