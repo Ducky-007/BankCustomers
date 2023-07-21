@@ -1,5 +1,5 @@
 # BankCustomers
-Mock UK bank customer dataset.
+Mock UK bank customer dataset
 
 Attached files are the Tableau workbook breaking down the customer segmentation for the bank.
 
